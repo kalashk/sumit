@@ -1,0 +1,33 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.db
+.venv
+
+# FastAPI Temp Files
+temp_audio/
+temp_pdf/
+
+# Environment Variables
+.env
+
+# Node Modules
+node_modules/
+dist/
+build/
+
+# VS Code Settings
+.vscode/
+*.code-workspace
+
+# Log files
+*.log
+
+# MacOS & Windows junk
+.DS_Store
+Thumbs.db
